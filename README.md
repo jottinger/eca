@@ -1,0 +1,4 @@
+eca
+===
+
+Elementary Cellular Automata
